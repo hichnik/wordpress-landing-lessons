@@ -15,6 +15,9 @@ wp-content/uploads/
 wp-content/wp-cache-config.php
 
 # Sublime
+*.sublime-project
+*.sublime-workspace
+
 
 # Hidden from public
 _*
